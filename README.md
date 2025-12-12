@@ -31,6 +31,6 @@ print("RMS Vertex Distance:", rms_vertex_distance_o3d(A, B))
 ```
 Alternatively, you can explore and run the computations interactively using the provided Jupyter notebook.
 
-## License
+## MIT License
 
-**© 2025 Sonain Jamil and Yaseen. All rights reserved.**
+**Copyright © 2025 Sonain Jamil and Yaseen**
